@@ -1,3 +1,7 @@
+It is a simple web-app that I made to practice React.js. The app will render a Form and take user details and on completion, it will render all the details taken.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
